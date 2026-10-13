@@ -4,7 +4,7 @@
 
 ###  Aspiring Full-Stack Web Developer | JavaScript & React Enthusiast
 
-Building modern web experiences, learning through real-world projects, and exploring how technology can make agriculture smarter.
+Building modern web experiences, learning through real-world projects.
 
 [![GitHub](https://img.shields.io/badge/GitHub-rifat--17-181717?style=for-the-badge&logo=github)](https://github.com/rifat-17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammod-rifat-ahmed)
