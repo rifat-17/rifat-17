@@ -1,15 +1,29 @@
-# Hi 👋, I'm <Mohammod Rifat Ahmed>  
-### 🔭 I build things with JavaScript, React, and Node.js
+<div align="center">
+
+# Hi there, I'm Mohammod Rifat Ahmed 👋
+
+### 🌱 Aspiring Full-Stack Web Developer | JavaScript & React Enthusiast
+
+Building modern web experiences, learning through real-world projects, and exploring how technology can make agriculture smarter.
+
+[![GitHub](https://img.shields.io/badge/GitHub-rifat--17-181717?style=for-the-badge&logo=github)](https://github.com/rifat-17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammod-rifat-ahmed)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+## 👨‍💻 About Me
 
----
+- 🚀 I'm working toward becoming a **Full-Stack Web Developer**.
+- 💡 I enjoy learning JavaScript and building useful, user-friendly web applications.
+- 🛠️ I learn best by turning ideas into practical projects and improving them step by step.
+- 🌾 I'm interested in **agriculture and AgriTech**—especially how technology can help solve real-world challenges in the agriculture sector.
+- 📈 I'm continuously improving my skills, exploring new tools, and documenting my journey through code.
 
-## 🛠️ Tech Stack  
+
+
+## 🧰 Tech Stack
 
 ### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
@@ -26,25 +40,24 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 ### **Tools & Others**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
 
 ---
 
-## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:email@example.com)
+## 🤝 Let's Connect
 
----
+I'm happy to connect with fellow developers, learn from others, share projects, and exchange ideas about web development and AgriTech.
 
-## 📊 GitHub Stats  
-
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+- 🐙 **GitHub:** [rifat-17](https://github.com/rifat-17)
+- 💼 **LinkedIn:** [Mohammod Rifat Ahmed](https://www.linkedin.com/in/mohammod-rifat-ahmed)
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+<div align="center">
+
+**“Learn continuously. Build thoughtfully. Grow with purpose.”** 🌱
+
+⭐ Thanks for visiting my profile!
+
+</div>
