@@ -1,74 +1,50 @@
-<div align="center">
-
-# Hi there, I'm Mohammod Rifat Ahmed 👋
-
-###  Aspiring Full-Stack Web Developer | JavaScript & React Enthusiast
-
-Building modern web experiences, learning through real-world projects, and exploring.
-
-[![GitHub](https://img.shields.io/badge/GitHub-rifat--17-181717?style=for-the-badge&logo=github)](https://github.com/rifat-17)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammod-rifat-ahmed)
-
-</div>
+# Hi 👋, I'm <Mohammod Rifat Ahmed>  
+### 🔭 I build things with JavaScript, React, and Node.js
 
 ---
 
-## 👨‍💻 About Me
-
-- 🚀 I'm working toward becoming a **Full-Stack Web Developer**.
-- 💡 I enjoy learning JavaScript and building useful, user-friendly web applications.
-- 🛠️ I learn best by turning ideas into practical projects and improving them step by step.
-- 🌾 I'm interested in **agriculture and AgriTech**—especially how technology can help solve real-world challenges in the agriculture sector.
-- 📈 I'm continuously improving my skills, exploring new tools, and documenting my journey through code.
-
-
-
-## 🧰 Tech Stack
-
-### Languages & Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-
-
-
-
-## 📊 GitHub at a Glance
-
-<div align="center">
-
-![Rifat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifat-17&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-17&layout=compact&hide_border=true&theme=transparent)
-
-</div>
-
-## 🤝 Let's Connect
-
-I'm happy to connect with fellow developers, learn from others, share projects, and exchange ideas about web development and AgriTech.
-
-- 🐙 **GitHub:** [rifat-17](https://github.com/rifat-17)
-- 💼 **LinkedIn:** [Mohammod Rifat Ahmed](https://www.linkedin.com/in/mohammod-rifat-ahmed)
+## 👨‍💻 About Me  
+I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
+Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
 
 ---
 
-<div align="center">
+## 🛠️ Tech Stack  
 
-**“Learn continuously. Build thoughtfully. Grow with purpose.”** 
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 
-⭐ Thanks for visiting my profile!
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-</div>
+### **Tools & Others**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+---
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:email@example.com)
+
+---
+
+## 📊 GitHub Stats  
+
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
