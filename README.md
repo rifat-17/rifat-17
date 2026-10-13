@@ -2,7 +2,7 @@
 
 # Hi there, I'm Mohammod Rifat Ahmed 👋
 
-### 🌱 Aspiring Full-Stack Web Developer | JavaScript & React Enthusiast
+###  Aspiring Full-Stack Web Developer | JavaScript & React Enthusiast
 
 Building modern web experiences, learning through real-world projects, and exploring how technology can make agriculture smarter.
 
